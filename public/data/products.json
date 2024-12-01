@@ -1,0 +1,50 @@
+[
+  {
+    "_id": 1,
+    "name": "Gaming Laptop",
+    "image": "/assets/w1.jpg",
+    "price": 1500,
+    "features": ["Intel i7", "16GB RAM", "512GB SSD", "RTX 3060"],
+    "status": true,
+    "rating": 4.5,
+    "quantity": 10
+  },
+  {
+    "_id": 2,
+    "name": "Wireless Mouse",
+    "image": "/assets/w2.jpg",
+    "price": 25,
+    "features": ["Ergonomic Design", "Bluetooth 5.0", "Rechargeable Battery"],
+    "status": true,
+    "rating": 4.2
+  },
+  {
+    "_id": 3,
+    "name": "Mechanical Keyboard",
+    "image": "/assets/w3.jpg",
+    "price": 75,
+    "features": ["RGB Lighting", "Blue Switches", "Metal Frame"],
+    "status": false,
+    "rating": 4.8,
+    "quantity": 5
+  },
+  {
+    "_id": 4,
+    "name": "4K Monitor",
+    "image": "/assets/w4.jpg",
+    "price": 300,
+    "features": ["3840x2160 Resolution", "IPS Panel", "HDR10"],
+    "status": true,
+    "rating": 4.6,
+    "quantity": 8
+  },
+  {
+    "_id": 5,
+    "name": "Gaming Chair",
+    "image": "/assets/w5.jpg",
+    "price": 200,
+    "features": ["Adjustable Height", "Lumbar Support", "Breathable Mesh"],
+    "status": true,
+    "rating": 4.3
+  }
+]
