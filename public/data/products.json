@@ -1,7 +1,7 @@
 [
   {
     "_id": 1,
-    "name": "Gaming Laptop",
+    "name": "Gaming Watch",
     "image": "/assets/w1.jpg",
     "price": 1500,
     "features": ["Intel i7", "16GB RAM", "512GB SSD", "RTX 3060"],
@@ -11,7 +11,7 @@
   },
   {
     "_id": 2,
-    "name": "Wireless Mouse",
+    "name": "Wireless watch",
     "image": "/assets/w2.jpg",
     "price": 25,
     "features": ["Ergonomic Design", "Bluetooth 5.0", "Rechargeable Battery"],
@@ -20,7 +20,7 @@
   },
   {
     "_id": 3,
-    "name": "Mechanical Keyboard",
+    "name": "Mechanical Watch",
     "image": "/assets/w3.jpg",
     "price": 75,
     "features": ["RGB Lighting", "Blue Switches", "Metal Frame"],
@@ -30,7 +30,7 @@
   },
   {
     "_id": 4,
-    "name": "4K Monitor",
+    "name": "4K Watch",
     "image": "/assets/w4.jpg",
     "price": 300,
     "features": ["3840x2160 Resolution", "IPS Panel", "HDR10"],
@@ -40,7 +40,7 @@
   },
   {
     "_id": 5,
-    "name": "Gaming Chair",
+    "name": "Gaming Pro Watch",
     "image": "/assets/w5.jpg",
     "price": 200,
     "features": ["Adjustable Height", "Lumbar Support", "Breathable Mesh"],
